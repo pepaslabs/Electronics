@@ -44,6 +44,10 @@ It appears silicone oil does not suffer from the same problems as mineral oil, a
 
 If you search amazon.com for "[silicone oil high purity](https://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Daps&field-keywords=silicone+oil+high+purity&rh=i%3Aaps%2Ck%3Asilicone+oil+high+purity)", you'll find 16oz bottles from CCS (Consolidated Chemical & Solvents LLC) from $18 to $25.  These are available in viscosities from 0.65cSt to 100,000cSt.  Here's a helpful [video](https://www.youtube.com/watch?v=g1c4E1ze0Vo) comparing the viscosities of silicone oil.
 
+## Hermetic seals
+
+- [Hermetic vs “Near Hermetic” Packaging A Technical Review](https://www.tjgreenllc.com/2016/09/21/hermetic-vs-near-hermetic-packaging-a-technical-review/)
+
 ## "Awesome" lists
 
 Github users have started an awesome tradition of curating lists of "awesome" links.
