@@ -10,6 +10,11 @@ My first attempt at curating this clump of electronics knowledge was this [wiki]
 - [UT61E drift and recalibration](https://www.eevblog.com/forum/testgear/ut61e-drift-and-recalibration/)
   - [This post](https://www.eevblog.com/forum/testgear/ut61e-drift-and-recalibration/msg345532/#msg345532) describes replacing the built-in vref (75ppm/C) with the LT1790 (5ppm/C).
 
+## Building a resistance reference box
+
+- [Resistance standard shielding - how important is it?](http://www.eevblog.com/forum/metrology/resistance-standard-shielding-how-important-is-it/)
+- [Precision Resistor Box Project](http://www.eevblog.com/forum/metrology/precision-resistor-box-project/)
+
 ## Fluid baths for electronics (for volt-nuts, resistance-nuts, etc)
 
 Immersing electronics in oil is a tempting idea to stablize the temperature of the components, which helps combat the temperature coefficient of the components in a precision circuit (i.e. a voltage or resistance transfer standard).
@@ -34,7 +39,7 @@ For communication between a microcontroller and a PC, checksums can provide grea
 
 A default choice might be a CRC8 implementation.
 
-A somewhat more obscure checksum called Fletcher16 has the benefit of being simpler / cheaper, while offering "good enough" integrity [[1]](https://en.wikipedia.org/wiki/Fletcher%27s_checksum) [[2]](https://gist.github.com/globby/9337839).
+A somewhat more obscure checksum called Fletcher16 has the benefit of being simpler / easier to implement, while offering "good enough" integrity [[1]](https://en.wikipedia.org/wiki/Fletcher%27s_checksum) [[2]](https://gist.github.com/globby/9337839).  Thanks to [How should be a serial communication packet format ?](http://www.eevblog.com/forum/microcontrollers/how-should-be-a-serial-communication-packet-format/msg1256957/#msg1256957)
 
 ## "Awesome" lists
 
