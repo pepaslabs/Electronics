@@ -25,6 +25,9 @@ My first attempt at curating this clump of electronics knowledge was this [wiki]
 - [C implementation](https://en.wikipedia.org/wiki/Fletcher%27s_checksum#Implementation)
 - [Python implementation](https://gist.github.com/globby/9337839)
 
+### Learning how op-amps work
+
+- In [Doing opamp educational stuff - suggestions wanted](http://www.eevblog.com/forum/projects/doing-opamp-educational-stuff-suggestions-wanted/msg1270993/#msg1270993), Ian.M suggests looking at the schematic of a very early op-amp, the GAP/R P65, which only uses 6 transistors.  See [[1]](http://www.analog.com/media/en/training-seminars/design-handbooks/Op-Amp-Applications/SectionH.pdf) and [[2]](http://www.philbrickarchive.org/pp65a.htm).
 
 ## Fluid baths for electronics (for volt-nuts, resistance-nuts, etc)
 
