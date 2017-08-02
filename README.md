@@ -29,6 +29,8 @@ My first attempt at curating this clump of electronics knowledge was this [wiki]
 
 - In [Doing opamp educational stuff - suggestions wanted](http://www.eevblog.com/forum/projects/doing-opamp-educational-stuff-suggestions-wanted/msg1270993/#msg1270993), Ian.M suggests looking at the schematic of a very early op-amp, the GAP/R P65, which only uses 6 transistors.  See [[1]](http://www.analog.com/media/en/training-seminars/design-handbooks/Op-Amp-Applications/SectionH.pdf) and [[2]](http://www.philbrickarchive.org/pp65a.htm).
 
+![GAP/R P65](.media/gapr-p65.png)
+
 ## Fluid baths for electronics (for volt-nuts, resistance-nuts, etc)
 
 Immersing electronics in oil is a tempting idea to stablize the temperature of the components, which helps combat the temperature coefficient of the components in a precision circuit (i.e. a voltage or resistance transfer standard).
