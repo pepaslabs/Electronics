@@ -10,10 +10,21 @@ My first attempt at curating this clump of electronics knowledge was this [wiki]
 - [UT61E drift and recalibration](https://www.eevblog.com/forum/testgear/ut61e-drift-and-recalibration/)
   - [This post](https://www.eevblog.com/forum/testgear/ut61e-drift-and-recalibration/msg345532/#msg345532) describes replacing the built-in vref (75ppm/C) with the LT1790 (5ppm/C).
 
-## Building a resistance reference box
+### Building a resistance reference box
 
 - [Resistance standard shielding - how important is it?](http://www.eevblog.com/forum/metrology/resistance-standard-shielding-how-important-is-it/)
 - [Precision Resistor Box Project](http://www.eevblog.com/forum/metrology/precision-resistor-box-project/)
+
+### Communication checksums
+
+- [How should be a serial communication packet format ?](http://www.eevblog.com/forum/microcontrollers/how-should-be-a-serial-communication-packet-format/msg1256957/#msg1256957)
+  - This thread links to this excellent [overview of CRC's](https://users.ece.cmu.edu/~koopman/pubs/KoopmanCRCWebinar9May2012.pdf).
+
+[Fletcher16](https://en.wikipedia.org/wiki/Fletcher%27s_checksum) seems to be a good choice.  It is easy to understand and implement, performant, and has "good enough" data integrity for simple use-cases (i.e. sending small data packets between an Arduino and a PC).
+
+- [C implementation](https://en.wikipedia.org/wiki/Fletcher%27s_checksum#Implementation)
+- [Python implementation](https://gist.github.com/globby/9337839)
+
 
 ## Fluid baths for electronics (for volt-nuts, resistance-nuts, etc)
 
@@ -32,14 +43,6 @@ However, it turns out that over time, minearl oil breaks down and becomes acidic
 It appears silicone oil does not suffer from the same problems as mineral oil, and it appears this is the oil used in the Vishay hermetically sealed resistors [[1]](http://www.eevblog.com/forum/metrology/ultra-precision-reference-ltz1000/msg410930/#msg410930).
 
 If you search amazon.com for "[silicone oil high purity](https://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Daps&field-keywords=silicone+oil+high+purity&rh=i%3Aaps%2Ck%3Asilicone+oil+high+purity)", you'll find 16oz bottles from CCS (Consolidated Chemical & Solvents LLC) from $18 to $25.  These are available in viscosities from 0.65cSt to 100,000cSt.  Here's a helpful [video](https://www.youtube.com/watch?v=g1c4E1ze0Vo) comparing the viscosities of silicone oil.
-
-## Communication checksums
-
-For communication between a microcontroller and a PC, checksums can provide greater confidence of data integrity.
-
-A default choice might be a CRC8 implementation.
-
-A somewhat more obscure checksum called Fletcher16 has the benefit of being simpler / easier to implement, while offering "good enough" integrity [[1]](https://en.wikipedia.org/wiki/Fletcher%27s_checksum) [[2]](https://gist.github.com/globby/9337839).  Thanks to [How should be a serial communication packet format ?](http://www.eevblog.com/forum/microcontrollers/how-should-be-a-serial-communication-packet-format/msg1256957/#msg1256957)
 
 ## "Awesome" lists
 
