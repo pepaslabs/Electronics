@@ -47,6 +47,8 @@ If you search amazon.com for "[silicone oil high purity](https://www.amazon.com/
 ## Hermetic seals
 
 - [Hermetic vs “Near Hermetic” Packaging A Technical Review](https://www.tjgreenllc.com/2016/09/21/hermetic-vs-near-hermetic-packaging-a-technical-review/)
+  - _"Moisture permeability in most glasses, metals and ceramics is negligible. But not so with any plastic, it is several orders of magnitude greater..."_
+  - _"Polymeric materials such as silicones and epoxies do not provide a hermetic seal..."_
 
 ## "Awesome" lists
 
