@@ -69,3 +69,9 @@ Github users have started an awesome tradition of curating lists of "awesome" li
 ### INA226
 - [Ode to the INA226 voltage/current sensor](http://www.eevblog.com/forum/projects/ode-to-the-ina226-voltagecurrent-sensor/)
 - [http://www.ti.com/lit/ds/sbos547a/sbos547a.pdf](datasheet)
+
+## Oscilloscopes
+
+### DSO112A ($70, 2MHz, single-channel, hand-held, touch-screen, battery-powered scope)
+- [This touch screen cheaposcope is actually good! DSO112A Oscilloscope](https://www.youtube.com/watch?v=fGU9LoEpQFw)
+- [JYETech DSO112A. Preview of a uScope Alternative.](https://www.youtube.com/watch?v=qU9Tm-GqMDI)
