@@ -63,3 +63,9 @@ Github users have started an awesome tradition of curating lists of "awesome" li
   - Mentioned in the "meta awesome" list: https://github.com/sindresorhus/awesome#hardware
 - A similar gist: https://gist.github.com/rgaidot/9132b50cdcdb455fccbe
 - https://github.com/intajay/open-electronics
+
+## Interesting parts 
+
+### INA226
+- [Ode to the INA226 voltage/current sensor](http://www.eevblog.com/forum/projects/ode-to-the-ina226-voltagecurrent-sensor/)
+- [http://www.ti.com/lit/ds/sbos547a/sbos547a.pdf](datasheet)
