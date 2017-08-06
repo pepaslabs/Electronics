@@ -62,6 +62,7 @@ If you search amazon.com for "[silicone oil high purity](https://www.amazon.com/
 ## Threads I need to mine for volt-nutting tips:
 
 - [T.C. + Hysteresis measurements on brand new LT1027DCLS8-5 voltage reference](http://www.eevblog.com/forum/metrology/t-c-hysteresis-measurements-on-brand-new-lt1027dcls8-5-voltage-reference/)
+- [DIY Low EMF cable and connectors](http://www.eevblog.com/forum/metrology/diy-low-emf-cable-and-connectors/)
 
 ## "Awesome" lists
 
