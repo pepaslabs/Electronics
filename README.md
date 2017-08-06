@@ -79,6 +79,10 @@ Github users have started an awesome tradition of curating lists of "awesome" li
 - [Ode to the INA226 voltage/current sensor](http://www.eevblog.com/forum/projects/ode-to-the-ina226-voltagecurrent-sensor/)
 - [http://www.ti.com/lit/ds/sbos547a/sbos547a.pdf](datasheet)
 
+### Matched transistors
+
+- [SSM2212](http://www.analog.com/media/en/technical-documentation/data-sheets/SSM2212.pdf)
+
 ## Oscilloscopes
 
 ### DSO112A ($70, 2MHz, single-channel, hand-held, touch-screen, battery-powered scope)
