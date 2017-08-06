@@ -55,6 +55,11 @@ If you search amazon.com for "[silicone oil high purity](https://www.amazon.com/
   - _"Moisture permeability in most glasses, metals and ceramics is negligible. But not so with any plastic, it is several orders of magnitude greater..."_
   - _"Polymeric materials such as silicones and epoxies do not provide a hermetic seal..."_
 
+## Ageing voltage references
+
+- zlmex [linked](http://www.eevblog.com/forum/metrology/t-c-hysteresis-measurements-on-brand-new-lt1027dcls8-5-voltage-reference/msg981794/#msg981794) to an article by V. S. Orlov about how Datron ages their reference zener diodes.
+
+
 ## "Awesome" lists
 
 Github users have started an awesome tradition of curating lists of "awesome" links.
