@@ -59,6 +59,9 @@ If you search amazon.com for "[silicone oil high purity](https://www.amazon.com/
 
 - zlmex [linked](http://www.eevblog.com/forum/metrology/t-c-hysteresis-measurements-on-brand-new-lt1027dcls8-5-voltage-reference/msg981794/#msg981794) to an article by V. S. Orlov about how Datron ages their reference zener diodes.
 
+## Threads I need to mine for volt-nutting tips:
+
+- [T.C. + Hysteresis measurements on brand new LT1027DCLS8-5 voltage reference](http://www.eevblog.com/forum/metrology/t-c-hysteresis-measurements-on-brand-new-lt1027dcls8-5-voltage-reference/)
 
 ## "Awesome" lists
 
