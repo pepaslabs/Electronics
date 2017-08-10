@@ -56,6 +56,7 @@ If you search amazon.com for "[silicone oil high purity](https://www.amazon.com/
 ## Null meters (models to look for, what to use them for, how to build one)
 
 - [Null voltmeter](https://www.eevblog.com/forum/metrology/null-voltmeter)
+- [NULL DETECTOR](http://www.tradeofic.com/Circuit/8273-NULL_DETECTOR.html) (this schematic is actually from Conrad Hoffman's article series on building a mini metrology lab)
 
 ## Hermetic seals
 
