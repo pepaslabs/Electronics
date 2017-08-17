@@ -5,6 +5,21 @@ A central place to organize and publish all of my hobbyist electronics knowledge
 
 My first attempt at curating this clump of electronics knowledge was this [wiki](https://github.com/pepaslabs/Electronics/wiki).
 
+## Low Thermal EMF copper alloys
+
+I'm still unclear if tellurium and beryllium are actually added for thermal EMF performance, or are added for ease of machining.
+
+- The standard Tellurium Copper alloy appears to be C14500
+  - [C14500 copper on alibaba](https://www.alibaba.com/trade/search?fsb=y&IndexArea=product_en&CatId=&SearchText=c14500+copper)
+  - [C14500 on taobao](https://s.taobao.com/search?q=C14500&type=p&tmhkh5=&spm=a21wu.241046-us.a2227oh.d100&from=sea_1_searchbutton&catId=100&bcoffset=4&p4ppushleft=1%2C48&ntoffset=4&s=88)
+  - [C14500 copper on ebay](https://www.ebay.com/sch/i.html?_odkw=C14500&_osacat=0&_from=R40&_trksid=m570.l1313&_nkw=C14500+copper&_sacat=0)
+  - [C14500 copper on amazon](https://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Daps&field-keywords=C14500+copper&rh=i%3Aaps%2Ck%3AC14500+copper)
+- The standard Beryllium Copper alloy appears to be C17200
+  - [C17200 copper on alibaba](https://www.alibaba.com/trade/search?fsb=y&IndexArea=product_en&CatId=&SearchText=c17200+copper)
+  - [C17200 on taobao](https://s.taobao.com/search?q=C17200&type=p&tmhkh5=&spm=a21wu.241046-us.a2227oh.d100&from=sea_1_searchbutton&catId=100&bcoffset=4&p4ppushleft=1%2C48&ntoffset=4&s=132)
+  - [C17200 copper on ebay](https://www.ebay.com/sch/i.html?_odkw=C17200+beryllium&_osacat=0&_from=R40&_trksid=m570.l1313&_nkw=C17200+copper&_sacat=0)
+  - [C17200 copper on amazon](https://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Daps&field-keywords=C17200+copper&rh=i%3Aaps%2Ck%3AC17200+copper)
+
 ## EEVBlog threads of interest
 
 - [UT61E drift and recalibration](https://www.eevblog.com/forum/testgear/ut61e-drift-and-recalibration/)
